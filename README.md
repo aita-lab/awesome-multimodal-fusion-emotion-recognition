@@ -186,6 +186,66 @@
 [*2020*] [Speech Communication]\
 [[Paper](https://doi.org/10.1016/j.specom.2020.03.005)]
 ### Deep fusion
+
+**A multi-feature fusion speech emotion recognition method based on frequency band division and improved residual network.**\
+*Guo, Y., Zhou, Y., Xiong, X., Jiang, X., Tian, H., Zhang, Q.*\
+[*2023*] [IEEE Access]\
+[[Paper](https://doi.org/110.1109/ACCESS.2023.3299822)]
+
+**Speech emotion recognition based on multi-dimensional feature extraction and multi-scale feature fusion**\
+*Yu, Lingli and Xu, Fengjun and Qu, Yundong and Zhou, Kaijun*\
+[*2024*] [Applied Acoustics]\
+[[Paper](https://doi.org/10.1016/j.apacoust.2023.109752)]
+
+**A multi-message passing framework based on heterogeneous graphs in conversational emotion recognition.**\
+*Meng, T., Shou, Y., Ai, W., Du, J., Liu, H., Li, K.*\
+[*2024*] [Neurocomputing]\
+[[Paper](https://doi.org/10.1016/j.neucom.2023.127109)]
+
+**MM DialogueGAT—A Fusion Graph Attention Network for Emotion Recognition Using Multi-Model System**\
+*Fu, Rui and Gai, Xiaomei and Abdulhakim Al-Absi, Ahmed and Abdulhakim Al-Absi, Mohammed and Alam, Muhammad and Li, Ye and Jiang, Meng and Wang, Xuewei*\
+[*2024*] [IEEE Access]\
+[[Paper](https://doi.org/110.1109/ACCESS.2024.3350156)]
+
+**Speech Emotion Recognition Based on Feature Fusion and Residual Graph Convolutional Network**\
+*Zhang, Yuanbang and Cui, Lin and Sun, Xiaodong and Xue, Kai*\
+[*2023*] [IEEE International Conference on Signal Processing, Communications and Computing (ICSPCC)]\
+[[Paper](https://doi.org/10.1109/ICSPCC59353.2023.10400357)]
+
+**Dual memory fusion for multimodal speech emotion recognition**\
+*Priyasad, D., Fernando, T., Sridharan, S., Denman, S., Fookes*\
+[*2023*] [INTERSPEECH]\
+[[Paper](https://doi.org/10.21437/Interspeech.2023-1090)]
+
+**RBA-GCN: Relational Bilevel Aggregation Graph Convolutional Network for Emotion Recognition**\
+*Yuan, Lin and Huang, Guoheng and Li, Fenghuan and Yuan, Xiaochen and Pun, Chi-Man and Zhong, Guo*\
+[*2023*] [IEEE/ACM Transactions on Audio, Speech, and Language Processing]\
+[[Paper](https://doi.org/10.1109/TASLP.2023.3284509)]
+
+**Spatio-temporal representation learning enhanced speech emotion recognition with multi-head attention mechanisms.**\
+*Chen, Z., Lin, M., Wang, Z., Zheng, Q., Liu, C.*\
+[*2023*] [Knowledge-Based Systems]\
+[[Paper](https://doi.org/10.1016/j.knosys.2023.111077)]
+
+**Speech emotion recognition using multi-modal feature fusion network.**\
+*Li, F., Luo, J., Liu, W.*
+[*2023*] [2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)]\
+[[Paper](https://doi.org/10.1109/PRAI59366.2023.10332053)]\
+
+**Improved speech emotion recognition focusing on high-level data representations and swift feature extraction calculation.**\
+*Abdusalomov, A., Kutlimuratov, A., Nasimov, R., Whangbo, T.K.*\
+[*2023*] [Computers, Materials & Continua]\
+[[Paper](https://doi.org/10.32604/cmc.2023.044466.)]
+
+**Self-labeling with feature transfer for speech emotion recognition**\
+*Wen, Guihua and Liao, Huiqiang and Li, Huihui and Wen, Pengchen and Zhang, Tong and Gao, Sande and Wang, Bao*\
+[*2022*] [Knowledge-Based Systems]\
+[[Paper](https://doi.org/10.1016/j.knosys.2022.109589)]
+
+**Head Fusion: Improving the Accuracy and Robustness of Speech Emotion Recognition on the IEMOCAP and RAVDESS Dataset**\
+*Xu, Mingke and Zhang, Fan and Zhang, Wei*\
+[*2021*] [IEEE Access]\
+[[Paper](https://doi.org/10.1109/ACCESS.2021.3067460)]
 ### Hybrid fusion
 
 ## Review of fusion technologies in SER
