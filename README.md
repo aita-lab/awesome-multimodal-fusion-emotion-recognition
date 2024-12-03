@@ -37,6 +37,7 @@ Emotions play a pivotal role in human communication, expressed through speech, g
 <p align="center">
 Figure 1: Overview of multi-modal fusion in SER.
 </p>
+
 # Related Survey
 **A snapshot research and implementation of multimodal information fusion for data-driven emotion recognition.**\
 *Jiang, Y., Li, W., Hossain, M. S., Chen, M., Alelaiwi, A., & Al-Hammadi, M.*\
