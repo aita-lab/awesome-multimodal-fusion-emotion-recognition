@@ -1,32 +1,43 @@
 # <p align=center>`Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies`</p> #
 
-### Citation
+## Citation
 ```python
 # Update soon
 ```
-### Update
+## Update
 - **First release:** December 3rd, *2024*. 
 
-## Contents
-- [Related Survey](#related-survey)
-- [Data sets](#data-sets)
-- [Review of fusion methods in SER](#review-of-fusion-methods-in-ser)
-    - [Early fusion](#early-fusion)
-    - [Late fusion](#late-fusion)
-    - [Deep-fusion](#deep-fusion)
-    - [Hybrid-fusion](#hybrid-fusion)
-- [Review of fusion technologies in SER](#review-of-fusion-technologies-in-SER)
-    - [Data representation](#data-representation)
-    - [Data translation](#data-translation)
-    - [Attention mechanism](#attention-mechanism)
-        - [Multi-head attention](#multi-head-attention)
-        - [Cross-modality attention](#cross-modality-attention)
-        - [Dual-attention network](#dual-attention-network)
-        - [Graph attention network](#graph-attention-network)
-    - [Graph-based fusion](#graph-based-fusion)
+# Table of Contents
 
+- [**Introduction**](#introduction)
+- [**Related Survey**](#related-survey)
+- [**Datasets**](#datasets)
+- [**Review of Fusion Methods in SER**](#review-of-fusion-methods-in-ser)
+    - [**Early Fusion**](#early-fusion)
+    - [**Late Fusion**](#late-fusion)
+    - [**Deep Fusion**](#deep-fusion)
+    - [**Hybrid Fusion**](#hybrid-fusion)
+- [**Review of Fusion Technologies in SER**](#review-of-fusion-technologies-in-ser)
+    - [**Data Representation**](#data-representation)
+    - [**Data Translation**](#data-translation)
+    - [**Attention Mechanism**](#attention-mechanism)
+        - [**Multi-Head Attention**](#multi-head-attention)
+        - [**Cross-Modality Attention**](#cross-modality-attention)
+        - [**Dual-Attention Network**](#dual-attention-network)
+        - [**Graph Attention Network**](#graph-attention-network)
+    - [**Graph-Based Fusion**](#graph-based-fusion)
 
-## Related Survey
+# Introduction
+Emotions play a pivotal role in human communication, expressed through speech, gestures, and physiological cues, making Speech Emotion Recognition (SER) a key area in human-computer interaction research. While uni-modal SER focuses on analyzing specific speech features like prosody and intonation, it faces challenges such as noise susceptibility and limited accuracy in dynamic environments. Multi-modal fusion, integrating acoustic, visual, and textual features, overcomes these limitations, offering a comprehensive representation of emotional states but introducing complexities like synchronization and computational demands. This survey reviews and compares various fusion methods—early, late, deep, and hybrid—and cutting-edge models, including attention mechanisms and graph-based approaches, assessing their performance across datasets. It identifies challenges, such as data alignment and modality-specific noise, and proposes future research directions to enhance SER systems' efficacy, providing a structured roadmap for advancing multi-modal fusion in SER.
+
+<p align="center">
+  <img src="Figures/Introduction.png" alt="Overview of multi-modal fusion in SER" width="80%">
+</p>
+
+<p align="center">
+Figure 1: Overview of multi-modal fusion in SER.
+</p>
+# Related Survey
 **A snapshot research and implementation of multimodal information fusion for data-driven emotion recognition.**\
 *Jiang, Y., Li, W., Hossain, M. S., Chen, M., Alelaiwi, A., & Al-Hammadi, M.*\
 [*2020*] [Information Fusion]\
@@ -57,7 +68,7 @@
 [*2024*] [Computers and Electrical Engineering]\
 [[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
 
-## Data sets
+# Data sets
 **Cmu-moseas: A multimodal language dataset for Spanish, Portuguese, German and French**\
 *A. Zadeh, Y. S. Cao, S. Hessner, P. P. Liang, S. Poria, and L.-P. Morency*\
 [*2020*] [Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing]\
@@ -99,8 +110,8 @@
 [[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
 
 
-## Review of fusion methods in SER
-### Early fusion
+# Review of fusion methods in SER
+## Early fusion
 
 **Late fusion multiview clustering via min-max optimization**\
 *M. Li, X. Liu, Y. Zhang, and W. Liang*\
@@ -125,7 +136,7 @@
 [*2021*] [Applied Acoustics]\
 [[Paper](https://doi.org/10.1016/j.apacoust.2021.108260)]
 
-### Late fusion
+## Late fusion
 **A multi-feature fusion speech emotion recognition method based on frequency band division and improved residual network.**\
 *Guo, Y., Zhou, Y., Xiong, X., Jiang, X., Tian, H., Zhang, Q.*\
 [*2023*] [IEEE Access]\
@@ -185,7 +196,7 @@
 *Yao, Zengwei and Wang, Zihao and Liu, Weihuang and Liu, Yaqian and Pan, Jiahui*\
 [*2020*] [Speech Communication]\
 [[Paper](https://doi.org/10.1016/j.specom.2020.03.005)]
-### Deep fusion
+## Deep fusion
 
 **A multi-feature fusion speech emotion recognition method based on frequency band division and improved residual network.**\
 *Guo, Y., Zhou, Y., Xiong, X., Jiang, X., Tian, H., Zhang, Q.*\
@@ -230,7 +241,7 @@
 **Speech emotion recognition using multi-modal feature fusion network.**\
 *Li, F., Luo, J., Liu, W.*
 [*2023*] [2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)]\
-[[Paper](https://doi.org/10.1109/PRAI59366.2023.10332053)]\
+[[Paper](https://doi.org/10.1109/PRAI59366.2023.10332053)]
 
 **Improved speech emotion recognition focusing on high-level data representations and swift feature extraction calculation.**\
 *Abdusalomov, A., Kutlimuratov, A., Nasimov, R., Whangbo, T.K.*\
@@ -246,14 +257,84 @@
 *Xu, Mingke and Zhang, Fan and Zhang, Wei*\
 [*2021*] [IEEE Access]\
 [[Paper](https://doi.org/10.1109/ACCESS.2021.3067460)]
-### Hybrid fusion
 
-## Review of fusion technologies in SER
-### Data representation
-### Data translation
-### Attention mechanism
-#### Multi-head attention
-#### Cross-modality attention
-#### Dual-attention network
-#### Graph attention network
-### Graph-based fusion
+## Hybrid fusion
+**Speech emotion recognition based on multi coattention acoustic feature fusion.**\
+*Song, H., Kang, K., Wei, Y., Zhang, H., Zhang, L.*\
+[*2024*] [Second International Conference on Data Science and Information System (ICDSIS)]\
+[[Paper](https://doi.org/10.1109/ICDSIS61070.2024.10594517)]
+
+**Speech emotion recognition based on temporal-spatial learnable graph convolutional neural network.**\
+*Yan, J., Li, H., Xu, F., Zhou, X., Liu, Y., Yang, Y.*
+[*2024*] [Electronics]\
+[[Paper](https://doi.org/10.3390/electronics13112010)]
+
+**Discriminative feature learning based on multi-view attention network with diffusion joint loss for speech emotion recognition.**\
+*Liu, Y., Chen, X., Song, Y., Li, Y., Wang, S., Yuan, W., Li, Y., Zhao, Z.*\
+[*2024*] [Engineering Applications of Artificial Intelligence]\
+[[Paper](https://doi.org/10.1016/j.engappai.2024.109219)]
+
+**Cross-modal dynamic transfer learning for multimodal emotion recognition.**\
+*Hong, S., Kang, H., Cho, H.*\
+[*2024*] [IEEE Access]\
+[[Paper](https://doi.org/10.1109/ACCESS.2024.3356185)]
+
+**Speech emotion recognition based on self-attention weight correction for acoustic and text features.**\
+*Santoso, J., Yamada, T., Ishizuka, K., Hashimoto, T., Makino, S.*\
+[*2022*] [IEEE Access]\
+[[Paper](https://doi.org/10.1109/ACCESS.2022.3219094.)]
+
+**Graphmft: A graph network based multimodal fusion technique for emotion recognition in conversation.**\
+*Li, J., Wang, X., Lv, G., Zeng, Z.*\
+[*2023*] [Neurocomputing]\
+[[Paper](https://doi.org/10.1016/j.neucom.2023.126427)]
+
+**A robust pitch-fusion model for speech emotion recognition in tonal languages.**\
+*Thanh, P.V., Huyen, N.T.T., Quan, P.N., Trang, N.T.T.*\
+[*2024*] [ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)]\
+[[Paper](https://doi.org/10.1109/ICASSP48485.2024.10448373)]
+
+**Mpaf-cnn: Multiperspective aware and fine-grained fusion strategy for speech emotion recognition.**\
+*Li, G., Hou, J., Liu, Y., Wei, J.*\
+[*2023*] [Applied Acoustics] \
+[[Paper](https://doi.org/10.1016/j.apacoust.2023.109658)]
+
+**An autoencoder-based feature level fusion for speech emotion recognition.**\
+*Shixin, P., Kai, C., Tian, T., Jingying, C.*\
+[*2022*] [Digital Communications and Networks]\
+[[Paper](https://doi.org/10.1109/ACCESS.2024.3356185)]
+
+**A bimodal network based on audio–text-interactional-attention with arcface loss for speech emotion recognition.**\
+*Tang, Y., Hu, Y., He, L., Huang, H.*\
+[*2022*] [Speech Communication] \
+[[Paper](https://doi.org/10.1016/j.specom.2022.07.004)]
+
+**Speech emotion recognition with co-attention based multi-level acoustic information.**\
+*Zou, H., Si, Y., Chen, C., Rajan, D., Chng, E.S.*\
+[*2022*] [ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)]\
+[[Paper](https://doi.org/10.1109/ICASSP43922.2022.9747095)]
+
+**Ctnet: Conversational transformer network for emotion recognition.**\
+*Lian, Z., Liu, B., Tao, J.*\
+[*2021*] [IEEE/ACM Transactions on Audio, Speech, and Language Processing]\
+[[Paper](https://doi.org/10.1109/TASLP.2021.3049898)]
+
+**Multimodal approach of speech emotion recognition using multi-level multi-head fusion attentionbased recurrent neural network.**\
+*Ho, N.H., Yang, H.J., Kim, S.H., Lee, G.*\
+[*2020*] [IEEE Access] \
+[[Paper](https://doi.org/10.1109/ACCESS.2020.2984368)]
+
+**Multimodal emotion recognition using cross-modal attention and 1d convolutional neural networks.**\
+*N., K.D., Patil, A.*\
+[*2020*] [Interspeech 2020]\
+[[Paper](https://doi.org/10.21437/Interspeech.2020-1190)]
+# Review of fusion technologies in SER
+## Data representation
+
+## Data translation
+## Attention mechanism
+### Multi-head attention
+### Cross-modality attention
+### Dual-attention network
+### Graph attention network
+## Graph-based fusion
