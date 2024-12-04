@@ -1,6 +1,6 @@
 # **Awesome Multi-modal Fusion in Speech Emotion Recognition**
 
-> Welcome to the **Awesome Multi-modal Fusion in Speech Emotion Recognition** GitHub repository, the official companion to our survey paper: *"Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies."*  
+<i> Welcome to the **Awesome Multi-modal Fusion in Speech Emotion Recognition** GitHub repository, the official companion to our survey paper: **"Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies."** </i>
 
 ---
 
@@ -11,10 +11,6 @@
 </p>
 
 <p align='center'>
-<img src="https://img.shields.io/github/last-commit/aita-lab/awesome-multimodal-fusion-emotion-recognition?display_timestamp=committer&style=for-the-badge&labelColor=grey">
-</p>
-
-<p align='center'>
 <img src="https://img.shields.io/badge/Attention_mechanisms-white?style=for-the-badge">
 <img src="https://img.shields.io/badge/Deep_learning-white?style=for-the-badge">
 <img src="https://img.shields.io/badge/Feature_fusion-white?style=for-the-badge">
@@ -22,12 +18,17 @@
 <img src="https://img.shields.io/badge/Speech_emotion_recognition-white?style=for-the-badge">
 </p>
 
+<p align='center'>
+<img src="https://img.shields.io/badge/Last%20updated%20on-04.12.2024-brightgreen?style=for-the-badge">
+
+</p>
+
 ## Citation
 ```python
 # Update soon
 ```
 ## Update
-- **First release:** December 5rd, *2024*. 
+- **First release:** December 4th, 2024. 
 
 # Table of Contents
 
