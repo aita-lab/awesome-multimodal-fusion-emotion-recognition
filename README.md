@@ -1,12 +1,8 @@
-# Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies
+# **Awesome Multi-modal Fusion in Speech Emotion Recognition**
 
-<p align='center'>
-<img src="https://img.shields.io/badge/Attention_mechanisms-white?style=for-the-badge">
-<img src="https://img.shields.io/badge/Deep_learning-white?style=for-the-badge">
-<img src="https://img.shields.io/badge/Feature_fusion-white?style=for-the-badge">
-<img src="https://img.shields.io/badge/Multi--modal_analysis-white?style=for-the-badge">
-<img src="https://img.shields.io/badge/Speech_emotion_recognition-white?style=for-the-badge">
-</p>
+> Welcome to the **Awesome Multi-modal Fusion in Speech Emotion Recognition** GitHub repository, the official companion to our survey paper: *"Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies."*  
+
+---
 
 <p align='center'>
 <img src="https://img.shields.io/github/stars/aita-lab/awesome-multimodal-fusion-emotion-recognition">
@@ -16,6 +12,14 @@
 
 <p align='center'>
 <img src="https://img.shields.io/github/last-commit/aita-lab/awesome-multimodal-fusion-emotion-recognition?display_timestamp=committer&style=for-the-badge&labelColor=grey">
+</p>
+
+<p align='center'>
+<img src="https://img.shields.io/badge/Attention_mechanisms-white?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep_learning-white?style=for-the-badge">
+<img src="https://img.shields.io/badge/Feature_fusion-white?style=for-the-badge">
+<img src="https://img.shields.io/badge/Multi--modal_analysis-white?style=for-the-badge">
+<img src="https://img.shields.io/badge/Speech_emotion_recognition-white?style=for-the-badge">
 </p>
 
 ## Citation
@@ -48,11 +52,11 @@
     - [**Graph-Based Fusion**](#graph-based-fusion)
 
 # Introduction
-> Emotions play a pivotal role in human communication, expressed through speech, gestures, and physiological cues, making **Speech Emotion Recognition (SER)** a key area in human-computer interaction research. While uni-modal SER focuses on analyzing specific speech features like prosody and intonation, it faces challenges such as noise susceptibility and limited accuracy in dynamic environments. **Multi-modal fusion**, integrating acoustic, visual, and textual features, overcomes these limitations, offering a comprehensive representation of emotional states but introducing complexities like synchronization and computational demands. This survey reviews and compares various *fusion methods*—early, late, deep, and hybrid—and cutting-edge models, and *fusion technologies* including data representation, data translation, attention mechanisms and graph-based approaches, assessing their performance across datasets. It identifies challenges, such as data alignment and modality-specific noise, and proposes future research directions to enhance SER systems' efficacy, providing a structured roadmap for advancing multi-modal fusion in SER.
->
-><img src="Figures/Introduction.png" alt="Overview of multi-modal fusion in SER" width="90%">
->
->**Figure 1:** Overview of multi-modal fusion in SER.
+Emotions play a pivotal role in human communication, expressed through speech, gestures, and physiological cues, making **Speech Emotion Recognition (SER)** a key area in human-computer interaction research. While uni-modal SER focuses on analyzing specific speech features like prosody and intonation, it faces challenges such as noise susceptibility and limited accuracy in dynamic environments. **Multi-modal fusion**, integrating acoustic, visual, and textual features, overcomes these limitations, offering a comprehensive representation of emotional states but introducing complexities like synchronization and computational demands. This survey reviews and compares various *fusion methods*—early, late, deep, and hybrid—and cutting-edge models, and *fusion technologies* including data representation, data translation, attention mechanisms and graph-based approaches, assessing their performance across datasets. It identifies challenges, such as data alignment and modality-specific noise, and proposes future research directions to enhance SER systems' efficacy, providing a structured roadmap for advancing multi-modal fusion in SER.
+
+<img src="Figures/Introduction.png" alt="Overview of multi-modal fusion in SER" width="100%">
+
+**Figure 1:** Overview of multi-modal fusion in SER.
 
 
 # Related Survey
