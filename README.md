@@ -33,8 +33,8 @@
 # Table of Contents
 
 - [**Introduction**](#introduction)
-- [**Related Survey**](#related-survey)
-- [**Datasets**](#datasets)
+- [**Related Surveys**](#related-surveys)
+- [**Data sets**](#data-sets)
 - [**Review of Fusion Methods in SER**](#review-of-fusion-methods-in-ser)
     - [**Early Fusion**](#early-fusion)
     - [**Late Fusion**](#late-fusion)
@@ -60,7 +60,7 @@ Emotions play a pivotal role in human communication, expressed through speech, g
 **Figure 1:** Overview of multi-modal fusion in SER.
 
 
-# Related Survey
+# Related Surveys
 **A snapshot research and implementation of multimodal information fusion for data-driven emotion recognition.**\
 *Jiang, Y., Li, W., Hossain, M. S., Chen, M., Alelaiwi, A., & Al-Hammadi, M.*\
 [*2020*] [Information Fusion]\
