@@ -1,11 +1,29 @@
-# <p align=center>`Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies`</p> #
+# Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies
+
+<p align='center'>
+<img src="https://img.shields.io/badge/Attention_mechanisms-white?style=for-the-badge">
+<img src="https://img.shields.io/badge/Deep_learning-white?style=for-the-badge">
+<img src="https://img.shields.io/badge/Feature_fusion-white?style=for-the-badge">
+<img src="https://img.shields.io/badge/Multi--modal_analysis-white?style=for-the-badge">
+<img src="https://img.shields.io/badge/Speech_emotion_recognition-white?style=for-the-badge">
+</p>
+
+<p align='center'>
+<img src="https://img.shields.io/github/stars/aita-lab/awesome-multimodal-fusion-emotion-recognition">
+<img src="https://img.shields.io/github/forks/aita-lab/awesome-multimodal-fusion-emotion-recognition">
+<img src="https://img.shields.io/github/watchers/aita-lab/awesome-multimodal-fusion-emotion-recognition">
+</p>
+
+<p align='center'>
+<img src="https://img.shields.io/github/last-commit/aita-lab/awesome-multimodal-fusion-emotion-recognition?display_timestamp=committer&style=for-the-badge&labelColor=grey">
+</p>
 
 ## Citation
 ```python
 # Update soon
 ```
 ## Update
-- **First release:** December 3rd, *2024*. 
+- **First release:** December 5rd, *2024*. 
 
 # Table of Contents
 
@@ -19,6 +37,8 @@
     - [**Hybrid Fusion**](#hybrid-fusion)
 - [**Review of Fusion Technologies in SER**](#review-of-fusion-technologies-in-ser)
     - [**Data Representation**](#data-representation)
+        - [**Joint Representation**](#joint-representation)
+        - [**Coordinated Representaion**](#coordinated-representation)
     - [**Data Translation**](#data-translation)
     - [**Attention Mechanism**](#attention-mechanism)
         - [**Multi-Head Attention**](#multi-head-attention)
