@@ -331,7 +331,28 @@ Figure 1: Overview of multi-modal fusion in SER.
 [[Paper](https://doi.org/10.21437/Interspeech.2020-1190)]
 # Review of fusion technologies in SER
 ## Data representation
+### Joint representation
+**Multiple models fusion for multi-label classification in speech emotion recognition systems**\
+*Slimi, Anwer and Hafar, Nafaa and Zrigui, Mounir and Nicolas, Henri*\
+[*2022*] [Procedia Computer Science]\
+[[Paper](https://doi.org/10.1016/j.procs.2022.09.345)]
 
+**Multi-type features separating fusion learning for Speech Emotion Recognition**\
+*Xu, Xinlei and Li, Dongdong and Zhou, Yijun and Wang, Zhe*\
+[*2022*] [Applied Soft Computing]\
+[[Paper](https://doi.org/10.1016/j.asoc.2022.109648)]
+
+**Graph based emotion recognition with attention pooling for variable-length utterances.**\
+*Liu, J., Wang, H., Sun, M., Wei, Y.*\
+[*2022*] [Neurocomputing]\
+[[Paper](https://doi.org/10.1016/j.neucom.2022.05.007)]
+
+### Coordinated representation
+
+**Cross-modal retrieval via deep and bidirectional representation learning.**\
+*He, Y., Xiang, S., Kang, C., Wang, J., Pan, C.*\
+[*2016*] [IEEE Transactions on Multimedia]\
+ [[Paper](https://doi.org/10.1109/TMM.2016.2558463)]
 ## Data translation
 ## Attention mechanism
 ### Multi-head attention
