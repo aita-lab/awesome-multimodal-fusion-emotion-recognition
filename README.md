@@ -48,15 +48,12 @@
     - [**Graph-Based Fusion**](#graph-based-fusion)
 
 # Introduction
-Emotions play a pivotal role in human communication, expressed through speech, gestures, and physiological cues, making Speech Emotion Recognition (SER) a key area in human-computer interaction research. While uni-modal SER focuses on analyzing specific speech features like prosody and intonation, it faces challenges such as noise susceptibility and limited accuracy in dynamic environments. Multi-modal fusion, integrating acoustic, visual, and textual features, overcomes these limitations, offering a comprehensive representation of emotional states but introducing complexities like synchronization and computational demands. This survey reviews and compares various fusion methods—early, late, deep, and hybrid—and cutting-edge models, including attention mechanisms and graph-based approaches, assessing their performance across datasets. It identifies challenges, such as data alignment and modality-specific noise, and proposes future research directions to enhance SER systems' efficacy, providing a structured roadmap for advancing multi-modal fusion in SER.
+> Emotions play a pivotal role in human communication, expressed through speech, gestures, and physiological cues, making **Speech Emotion Recognition (SER)** a key area in human-computer interaction research. While uni-modal SER focuses on analyzing specific speech features like prosody and intonation, it faces challenges such as noise susceptibility and limited accuracy in dynamic environments. **Multi-modal fusion**, integrating acoustic, visual, and textual features, overcomes these limitations, offering a comprehensive representation of emotional states but introducing complexities like synchronization and computational demands. This survey reviews and compares various *fusion methods*—early, late, deep, and hybrid—and cutting-edge models, and *fusion technologies* including data representation, data translation, attention mechanisms and graph-based approaches, assessing their performance across datasets. It identifies challenges, such as data alignment and modality-specific noise, and proposes future research directions to enhance SER systems' efficacy, providing a structured roadmap for advancing multi-modal fusion in SER.
+>
+><img src="Figures/Introduction.png" alt="Overview of multi-modal fusion in SER" width="90%">
+>
+>**Figure 1:** Overview of multi-modal fusion in SER.
 
-<p align="center">
-  <img src="Figures/Introduction.png" alt="Overview of multi-modal fusion in SER" width="80%">
-</p>
-
-<p align="center">
-Figure 1: Overview of multi-modal fusion in SER.
-</p>
 
 # Related Survey
 **A snapshot research and implementation of multimodal information fusion for data-driven emotion recognition.**\
