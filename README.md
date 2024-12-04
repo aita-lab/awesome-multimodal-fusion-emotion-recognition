@@ -353,9 +353,110 @@ Figure 1: Overview of multi-modal fusion in SER.
 *He, Y., Xiang, S., Kang, C., Wang, J., Pan, C.*\
 [*2016*] [IEEE Transactions on Multimedia]\
  [[Paper](https://doi.org/10.1109/TMM.2016.2558463)]
+
+ **A multi-feature fusion speech emotion recognition method based on frequency band division and improved residual network.**\
+*Guo, Y., Zhou, Y., Xiong, X., Jiang, X., Tian, H., Zhang, Q.*\
+[*2023*] [IEEE Access]\
+[[Paper](https://doi.org/10.1109/ACCESS.2023.32998220)]
+
+**Cross corpus speech emotion recognition using transfer learning and attention-based fusion of wav2vec2 and prosody features.**\
+*Naderi, N., Nasersharif, B.*\
+[*2023*] [Knowledge-Based Systems]\
+[[Paper](https://doi.org/10.1016/j.knosys.2023.110814)]
+
+**A parallel-model speech emotion recognition network based on feature clustering.**\
+*Zhang, L.M., Ng, G.W., Leau, Y.B., Yan, H.*\
+[*2023*] [IEEE Access]\
+[[Paper](https://doi.org/10.1109/ACCESS.2023.3294274)]
+
+**Research on feature fusion speech emotion recognition technology for smart teaching**\
+*Zhang, Shaoyun and Li, Chao*\
+[2022] [Mobile Information Systems]\
+[[Paper](https://doi.org/10.1155/2022/7785929)]
+
+**Robinnet: A multimodal speech emotion recognition system with speaker recognition for social interactions.**\
+*Khurana, Y., Gupta, S., Sathyaraj, R., Raja, S.P.*\
+[*2024*] [IEEE Transactions on Computational Social Systems]\
+[[Paper](https://doi.org/10.1109/TCSS.2022.3228649)]
+
+**Speech emotion recognition by late fusion for bidirectional reservoir computing with random projection.**\
+*Ibrahim, H., Loo, C.K., Alnajjar, F.*\
+[*2021*] [IEEE Access]\
+[[Paper](https://doi.org/10.1109/ACCESS.2021.3107858)]
+
+**A novel dual attention-based blstm with hybrid features in speech emotion recognition.**\
+*Chen, Q., Huang, G.*\
+[*2021*] [Engineering Applications of Artificial Intelligence]\
+[[Paper](https://doi.org/10.1016/j.engappai.2021.104277)]
+
+**Att-net: Enhanced emotion recognition system using lightweight self-attention module.**\
+*Kwon, S., et al.*\
+[*2021*] [Applied Soft Computing]\
+[[Paper](https://doi.org/10.1016/j.asoc.2021.107101)]
+
+**Speech emotion recognition using fusion of three multi-task learning-based classifiers: HSF-DNN, MS-CNN and LLD-RNN**\
+*Yao, Zengwei and Wang, Zihao and Liu, Weihuang and Liu, Yaqian and Pan, Jiahui*\
+[*2020*] [Speech Communication]\
+[[Paper](https://doi.org/10.1016/j.specom.2020.03.005)]
+
 ## Data translation
+**Retrieval-based language models and applications.**\
+*Asai, A., Min, S., Zhong, Z., Chen, D.*\
+[*2023*] [Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics] [[Paper](https://doi.org/10.18653/v1/2023.acl-tutorials.6)]
+
+
+**Self-labeling with feature transfer for speech emotion recognition**\
+*Wen, Guihua and Liao, Huiqiang and Li, Huihui and Wen, Pengchen and Zhang, Tong and Gao, Sande and Wang, Bao*\
+[*2022*] [Knowledge-Based Systems]\
+[[Paper](https://doi.org/10.1016/j.knosys.2022.109589)]
+
+**Cross-modal dynamic transfer learning for multimodal emotion recognition.**\
+*Hong, S., Kang, H., Cho, H.*\
+[*2024*] [IEEE Access]\
+[[Paper](https://doi.org/10.1109/ACCESS.2024.3356185)]
+
+**Mpaf-cnn: Multiperspective aware and fine-grained fusion strategy for speech emotion recognition.**\
+*Li, G., Hou, J., Liu, Y., Wei, J.*\
+[*2023*] [Applied Acoustics] \
+[[Paper](https://doi.org/10.1016/j.apacoust.2023.109658)]
+
 ## Attention mechanism
 ### Multi-head attention
+**Multimodal fusion: a study on speech-text emotion recognition with the integration of deep learning.**\
+*Shang, Y., Fu, T.*\
+[*2024*] [Intelligent Systems with Applications]\
+[[Paper](https://doi.org/10.1016/j.iswa.2024.200436)]
+
+**Cross corpus speech emotion recognition using transfer learning and attention-based fusion of wav2vec2 and prosody features.**\
+*Naderi, N., Nasersharif, B.*\
+[*2023*] [Knowledge-Based Systems]\
+[[Paper](https://doi.org/10.1016/j.knosys.2023.110814)]
+
+**Multi-modal speech emotion recognition: Improving accuracy through fusion of vggish and bert features with multi-head attention.**\
+*Tran, P.N., Vu, T.D.T., Dang, D.N.M., Pham, N.T., Tran*\
+[*2023a*] [Industrial Networks and Intelligent Systems, Springer]\
+[[Paper](https://doi.org/10.1007/978-3-031-47359-3_11)]
+
+**Comparative analysis of multi-loss functions for enhanced multimodal speech emotion recognition.**\
+*Tran, P.N., Vu, T.D.T., Truong Pham, N., Dang-Ngoc, H., Minh Dang, D.N.*\
+[2023] [The 14th International Conference on Information and Communication Technology Convergence (ICTC)]\
+[[Paper](https://doi.org/10.1109/ICTC58733.2023.10392928)]
+
+
+**Multi-type features separating fusion learning for Speech Emotion Recognition**\
+*Xu, Xinlei and Li, Dongdong and Zhou, Yijun and Wang, Zhe*\
+[*2022*] [Applied Soft Computing]\
+[[Paper](https://doi.org/10.1016/j.asoc.2022.109648)]
+
+**Ctnet: Conversational transformer network for emotion recognition.**\
+*Lian, Z., Liu, B., Tao, J.*\
+[*2021*] [IEEE/ACM Transactions on Audio, Speech, and Language Processing]\
+[[Paper](https://doi.org/10.1109/TASLP.2021.3049898)]
+
+**Multimodal approach of speech emotion recognition using multi-level multi-head fusion attentionbased recurrent neural network.**\
+*Ho, N.H., Yang, H.J., Kim, S.H., Lee, G.*\
+[*2020*] [IEEE Access] \
+[[Paper](https://doi.org/10.1109/ACCESS.2020.2984368)]
 ### Cross-modality attention
 ### Dual-attention network
 ### Graph attention network
