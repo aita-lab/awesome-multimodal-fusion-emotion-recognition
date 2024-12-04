@@ -62,23 +62,23 @@ Figure 1: Overview of multi-modal fusion in SER.
 **A comprehensive survey on deep learning multi-modal fusion: Methods, technologies and applications.**\
 *T. Jiao, C. Guo, X. Feng, Y. Chen, and J. Song*\
 [*2024*] [Computers, Materials & Continua]\
-[[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
+[[Paper](https://doi.org/10.32604/cmc.2024.053204)]
 
 **Multi-modal fusion approaches for tourism: A comprehensive survey of data-sets, fusion techniques, recent architectures, and future directions.**\
 *Q. W. Khan, R. Ahmad, A. Rizwan, A. N. Khan, C.-W. Park, and D. Kim*\
 [*2024*] [Computers and Electrical Engineering]\
-[[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
+[[Paper](https://doi.org/10.1016/j.compeleceng.2024.109220)]
 
 # Data sets
 **Cmu-moseas: A multimodal language dataset for Spanish, Portuguese, German and French**\
 *A. Zadeh, Y. S. Cao, S. Hessner, P. P. Liang, S. Poria, and L.-P. Morency*\
 [*2020*] [Proceedings of the Conference on Empirical Methods in Natural Language Processing. Conference on Empirical Methods in Natural Language Processing]\
-[[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
+[[Paper](https://doi.org/10.18653/v1/2020.emnlp-main.141)]
 
 **A database of german emotional speech.**\
 *F. Burkhardt, A. Paeschke, M. Rolfes, W. F. Sendlmeier, B. Weiss et al.*\
 [*2005*] [Interspeech]\
-[[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
+[[Paper](https://doi.org/10.21437/Interspeech.2005-446)]
 
 **EMOVO corpus: an Italian emotional speech database**\
 *G. Costantini, I. Iaderola, A. Paoloni, and M. Todisco*\
@@ -88,27 +88,27 @@ Figure 1: Overview of multi-modal fusion in SER.
 **Iemocap: Interactive emotional dyadic motion capture database,” Language resources and evaluation**\
 *C. Busso, M. Bulut, C.-C. Lee, A. Kazemzadeh, E. Mower, S. Kim, J. N. Chang, S. Lee, and S. S. Narayanan*\
 [*2008*]\
-[[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
+[[Paper](https://doi.org/10.1007/s10579-008-9076-6)]
 
 **The model for end-stage liver disease (meld)**\
 *P. S. Kamath and W. R. Kim*\
 [*2007*] [Hepatology]\
-[[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
+[[Paper](https://doi.org/10.1002/hep.21563)]
 
 **The ryerson audio-visual database of emotional speech and song (ravdess): A dynamic, multimodal set of facial and vocal expressions in north american english**\
 *S. R. Livingstone and F. A. Russo*\
 [*2018*] [PloS one]\
-[[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
+[[Paper](https://doi.org/10.1371/journal.pone.0196391)]
 
 **Recognizing human emotional state from audiovisual signals**\
 *Y. Wang and L. Guan*\
 [*2008*] [IEEE transactions on multimedia]\
-[[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
+[[Paper](https://doi.org/10.1109/TMM.2008.927665)]
 
 **Surrey audio-visual expressed emotion (savee) database**
 *P. Jackson and S. Haq*\
 [*2014*] [University of Surrey: Guildford]\
-[[Paper](https://doi.org/10.1109/ACCESS.2023.xxx)]
+[[Website](http://kahlan.eps.surrey.ac.uk/savee/)]
 
 
 # Review of fusion methods in SER
@@ -458,6 +458,81 @@ Figure 1: Overview of multi-modal fusion in SER.
 [*2020*] [IEEE Access] \
 [[Paper](https://doi.org/10.1109/ACCESS.2020.2984368)]
 ### Cross-modality attention
+**Robinnet: A multimodal speech emotion recognition system with speaker recognition for social interactions.**\
+*Khurana, Y., Gupta, S., Sathyaraj, R., Raja, S.P.*\
+[*2024*] [IEEE Transactions on Computational Social Systems]\
+[[Paper](https://doi.org/10.1109/TCSS.2022.3228649)]
+
+**Multi-modal fusion approaches for tourism: A comprehensive survey of data-sets, fusion techniques, recent architectures, and future directions.**\
+*Q. W. Khan, R. Ahmad, A. Rizwan, A. N. Khan, C.-W. Park, and D. Kim*\
+[*2024*] [Computers and Electrical Engineering]\
+[[Paper](https://doi.org/10.1016/j.compeleceng.2024.109220)]
+
+**MM DialogueGAT—A Fusion Graph Attention Network for Emotion Recognition Using Multi-Model System**\
+*Fu, Rui and Gai, Xiaomei and Abdulhakim Al-Absi, Ahmed and Abdulhakim Al-Absi, Mohammed and Alam, Muhammad and Li, Ye and Jiang, Meng and Wang, Xuewei*\
+[*2024*] [IEEE Access]\
+[[Paper](https://doi.org/110.1109/ACCESS.2024.3350156)]
+
+**Speech emotion recognition using multi-modal feature fusion network.**\
+*Li, F., Luo, J., Liu, W.*
+[*2023*] [2023 IEEE 6th International Conference on Pattern Recognition and Artificial Intelligence (PRAI)]\
+[[Paper](https://doi.org/10.1109/PRAI59366.2023.10332053)]
+
+**A robust pitch-fusion model for speech emotion recognition in tonal languages.**\
+*Thanh, P.V., Huyen, N.T.T., Quan, P.N., Trang, N.T.T.*\
+[*2024*] [ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)]\
+[[Paper](https://doi.org/10.1109/ICASSP48485.2024.10448373)]
+
+**Mersa: Multimodal emotion recognition with self-align embedding.**\
+*Le, Q.B., Tuan Trinh, K., Hung Son, N.D., Tran, P.N., Nguyen, C.T., Ngoc Minh Dang, D.*\
+[*2024*] [2024 International Conference on Information Networking (ICOIN)]\
+[[Paper](https://doi.org/10.1109/ICOIN59985.2024.10572116)]
+
+**Multimodal emotion recognition using cross-modal attention and 1d convolutional neural networks.**\
+*N., K.D., Patil, A.*\
+[*2020*] [Interspeech 2020]\
+[[Paper](https://doi.org/10.21437/Interspeech.2020-1190)]
+
 ### Dual-attention network
+**A novel dual attention-based blstm with hybrid features in speech emotion recognition.**\
+*Chen, Q., Huang, G.*\
+[*2021*] [Engineering Applications of Artificial Intelligence]\
+[[Paper](https://doi.org/10.1016/j.engappai.2021.104277)]
+
+**Enhancing cross-language multimodal emotion recognition with dual attention transformers.**\
+*Zaidi, S.A.M., Latif, S., Qadir, J.*\
+[*2024*] [IEEE Open Journal of the Computer Society]\
+[[Paper](https://doi.org/10.1109/OJCS.2024.3486904)]
+
 ### Graph attention network
+**MM DialogueGAT—A Fusion Graph Attention Network for Emotion Recognition Using Multi-Model System**\
+*Fu, Rui and Gai, Xiaomei and Abdulhakim Al-Absi, Ahmed and Abdulhakim Al-Absi, Mohammed and Alam, Muhammad and Li, Ye and Jiang, Meng and Wang, Xuewei*\
+[*2024*] [IEEE Access]\
+[[Paper](https://doi.org/110.1109/ACCESS.2024.3350156)]
+
+**Graphmft: A graph network based multimodal fusion technique for emotion recognition in conversation.**\
+*Li, J., Wang, X., Lv, G., Zeng, Z.*\
+[*2023*] [Neurocomputing]\
+[[Paper](https://doi.org/10.1016/j.neucom.2023.126427)]
 ## Graph-based fusion
+**Graph based emotion recognition with attention pooling for variable-length utterances.**\
+*Liu, J., Wang, H., Sun, M., Wei, Y.*\
+[*2022*] [Neurocomputing]\
+[[Paper](https://doi.org/10.1016/j.neucom.2022.05.007)]
+
+
+**Speech emotion recognition via graph-based representations**\
+*Pentari, A., Kafentzis, G., Tsiknakis, M.*\
+[*2024*] [Scientific Reports]\
+[[Paper](https://doi.org/10.1038/s41598-024-52989-2)]
+
+
+**A multi-message passing framework based on heterogeneous graphs in conversational emotion recognition.**\
+*Meng, T., Shou, Y., Ai, W., Du, J., Liu, H., Li, K.*\
+[*2024*] [Neurocomputing]\
+[[Paper](https://doi.org/10.1016/j.neucom.2023.127109)]
+
+**RBA-GCN: Relational Bilevel Aggregation Graph Convolutional Network for Emotion Recognition**\
+*Yuan, Lin and Huang, Guoheng and Li, Fenghuan and Yuan, Xiaochen and Pun, Chi-Man and Zhong, Guo*\
+[*2023*] [IEEE/ACM Transactions on Audio, Speech, and Language Processing]\
+[[Paper](https://doi.org/10.1109/TASLP.2023.3284509)]
