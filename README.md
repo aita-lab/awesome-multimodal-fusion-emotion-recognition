@@ -23,12 +23,25 @@
 
 </p>
 
+## Abstract
+> Speech emotion recognition (SER) plays a crucial role in human-computer interaction, enhancing numerous applications such as virtual assistants, healthcare monitoring, and customer support by identifying and interpreting emotions conveyed through spoken language. While single-modality SER systems demonstrate notable simplicity and computational efficiency, excelling in extracting critical features like vocal prosody and linguistic content, there is a pressing need to improve their performance in challenging conditions, such as noisy environments and the handling of ambiguous expressions or incomplete information. These challenges underscore the necessity of transitioning to multi-modal approaches, which integrate complementary data sources to achieve more robust and accurate emotion detection. With advancements in artificial intelligence, especially in neural networks and deep learning, many studies have employed advanced deep learning and feature fusion techniques to enhance SER performance. This review synthesizes comprehensive publications from 2020 to 2024, exploring prominent multi-modal fusion strategies, including early fusion, late fusion, deep fusion, and hybrid fusion methods, while also examining data representation, data translation, attention mechanisms, and graph-based fusion technologies. We assess the effectiveness of various fusion techniques across standard SER datasets, highlighting their performance in diverse tasks and addressing challenges related to data alignment, noise management, and computational demands. Additionally, we explore potential future directions for enhancing multi-modal SER systems, emphasizing scalability and adaptability in real-world applications. This survey aims to contribute to the advancement of multi-modal SER and to inform researchers about effective fusion strategies for developing more responsive and emotion-aware systems.
+> 
+> **Keywords**: Attention mechanisms, deep learning, feature fusion, multi-modal analysis, speech emotion recognition
+
 ## Citation
-```python
-# Update soon
 ```
+@article{nguyen2024multi,
+  title={Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies},
+  author={Nguyen, Nhut Minh and Nguyen, Thanh Trung and Tran, Phuong-Nam and Lim, Chee Peng and Pham, Nhat Truong and Dang, Duc Ngoc Minh},
+  year={2024},
+  journal={Available at SSRN 5063214},
+  doi={10.2139/ssrn.5063214}
+}
+```
+
 ## Update
-- **First release:** December 4th, 2024. 
+- **First release:** December 4th, 2024.
+- **Update the abstract and citation:** February 1st, 2025.
 
 # Table of Contents
 
