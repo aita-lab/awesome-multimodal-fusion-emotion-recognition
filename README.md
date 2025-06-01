@@ -1,6 +1,6 @@
-# **Awesome Multi-modal Fusion in Speech Emotion Recognition**
+# **Awesome Multimodal Fusion in Speech Emotion Recognition**
 
-<i> Welcome to the **Awesome Multi-modal Fusion in Speech Emotion Recognition** GitHub repository, the official companion to our survey paper: **"Multi-Modal Fusion in Speech Emotion Recognition: A Comprehensive Review of Methods and Technologies."** </i>
+<i> Welcome to the **Awesome Multimodal Fusion in Speech Emotion Recognition** GitHub repository, the official companion to our survey paper: **"Multimodal fusion in speech emotion recognition: A comprehensive review of methods and technologies."** </i>
 
 ---
 
@@ -24,9 +24,9 @@
 </p>
 
 ## Abstract
-> Speech emotion recognition (SER) plays a crucial role in human-computer interaction, enhancing numerous applications such as virtual assistants, healthcare monitoring, and customer support by identifying and interpreting emotions conveyed through spoken language. While single-modality SER systems demonstrate notable simplicity and computational efficiency, excelling in extracting critical features like vocal prosody and linguistic content, there is a pressing need to improve their performance in challenging conditions, such as noisy environments and the handling of ambiguous expressions or incomplete information. These challenges underscore the necessity of transitioning to multi-modal approaches, which integrate complementary data sources to achieve more robust and accurate emotion detection. With advancements in artificial intelligence, especially in neural networks and deep learning, many studies have employed advanced deep learning and feature fusion techniques to enhance SER performance. This review synthesizes comprehensive publications from 2020 to 2024, exploring prominent multi-modal fusion strategies, including early fusion, late fusion, deep fusion, and hybrid fusion methods, while also examining data representation, data translation, attention mechanisms, and graph-based fusion technologies. We assess the effectiveness of various fusion techniques across standard SER datasets, highlighting their performance in diverse tasks and addressing challenges related to data alignment, noise management, and computational demands. Additionally, we explore potential future directions for enhancing multi-modal SER systems, emphasizing scalability and adaptability in real-world applications. This survey aims to contribute to the advancement of multi-modal SER and to inform researchers about effective fusion strategies for developing more responsive and emotion-aware systems.
+> Speech emotion recognition (SER) plays a crucial role in human-computer interaction, enhancing numerous applications such as virtual assistants, healthcare monitoring, and customer support by identifying and interpreting emotions conveyed through spoken language. While unimodal SER systems demonstrate notable simplicity and computational efficiency, excelling in extracting critical features like vocal prosody and linguistic content, there is a pressing need to improve their performance in challenging conditions, such as noisy environments and the handling of ambiguous expressions or incomplete information. These challenges underscore the necessity of transitioning to multimodal approaches, which integrate complementary data sources to achieve more robust and accurate emotion detection. With advancements in artificial intelligence, especially in neural networks and deep learning, many studies have employed advanced deep learning and feature fusion techniques to enhance SER performance. This review synthesizes a comprehensive collection of publications from 2020 to 2024, exploring prominent multimodal fusion strategies, including early fusion, late fusion, deep fusion, and hybrid fusion methods, while also examining data representation, data translation, attention mechanisms, and graph-based fusion technologies. We assess the effectiveness of various fusion techniques across standard SER datasets, highlighting their performance in diverse tasks and addressing challenges related to data alignment, noise management, and computational demands. Furthermore, we highlight real-world applications of multimodal SER and provide critical research challenges that must be addressed for practical deployment, offering insights into optimal fusion strategies and guiding future developments in multimodal SER.
 > 
-> **Keywords**: Attention mechanisms, deep learning, feature fusion, multi-modal analysis, speech emotion recognition
+> **Keywords**: Attention mechanisms, deep learning, feature fusion, multimodal analysis, speech emotion recognition
 
 ## Citation
 ```
@@ -47,7 +47,7 @@
 
 - [**Introduction**](#introduction)
 - [**Related Surveys**](#related-surveys)
-- [**Data sets**](#data-sets)
+- [**Datasets**](#data-sets)
 - [**Review of Fusion Methods in SER**](#review-of-fusion-methods-in-ser)
     - [**Early Fusion**](#early-fusion)
     - [**Late Fusion**](#late-fusion)
@@ -66,11 +66,11 @@
     - [**Graph-Based Fusion**](#graph-based-fusion)
 
 # Introduction
-Emotions play a pivotal role in human communication, expressed through speech, gestures, and physiological cues, making **Speech Emotion Recognition (SER)** a key area in human-computer interaction research. While uni-modal SER focuses on analyzing specific speech features like prosody and intonation, it faces challenges such as noise susceptibility and limited accuracy in dynamic environments. **Multi-modal fusion**, integrating acoustic, visual, and textual features, overcomes these limitations, offering a comprehensive representation of emotional states but introducing complexities like synchronization and computational demands. This survey reviews and compares various *fusion methods*—early, late, deep, and hybrid—and cutting-edge models, and *fusion technologies* including data representation, data translation, attention mechanisms and graph-based approaches, assessing their performance across datasets. It identifies challenges, such as data alignment and modality-specific noise, and proposes future research directions to enhance SER systems' efficacy, providing a structured roadmap for advancing multi-modal fusion in SER.
+Emotions play a pivotal role in human communication, expressed through speech, gestures, and physiological cues, making **Speech Emotion Recognition (SER)** a key area in human-computer interaction research. While uni-modal SER focuses on analyzing specific speech features like prosody and intonation, it faces challenges such as noise susceptibility and limited accuracy in dynamic environments. **Multimodal fusion**, integrating acoustic, visual, and textual features, overcomes these limitations, offering a comprehensive representation of emotional states but introducing complexities like synchronization and computational demands. This survey reviews and compares various *fusion methods*—early, late, deep, and hybrid—and cutting-edge models, and *fusion technologies* including data representation, data translation, attention mechanisms and graph-based approaches, assessing their performance across datasets. It identifies challenges, such as data alignment and modality-specific noise, and proposes future research directions to enhance SER systems' efficacy, providing a structured roadmap for advancing multimodal fusion in SER.
 
-<img src="Figures/Introduction.png" alt="Overview of multi-modal fusion in SER" width="100%">
+<img src="Figures/Introduction.pdf" alt="Overview of multimodal fusion in SER" width="100%">
 
-**Figure 1:** Overview of multi-modal fusion in SER.
+**Figure 1:** Overview of multimodal fusion in SER.
 
 
 # Related Surveys
