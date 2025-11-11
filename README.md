@@ -5,12 +5,6 @@
 ---
 
 <p align='center'>
-<img src="https://img.shields.io/github/stars/aita-lab/awesome-multimodal-fusion-emotion-recognition">
-<img src="https://img.shields.io/github/forks/aita-lab/awesome-multimodal-fusion-emotion-recognition">
-<img src="https://img.shields.io/github/watchers/aita-lab/awesome-multimodal-fusion-emotion-recognition">
-</p>
-
-<p align='center'>
 <img src="https://img.shields.io/badge/Attention_mechanisms-white?style=for-the-badge">
 <img src="https://img.shields.io/badge/Deep_learning-white?style=for-the-badge">
 <img src="https://img.shields.io/badge/Feature_fusion-white?style=for-the-badge">
